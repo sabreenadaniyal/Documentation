@@ -1,7 +1,7 @@
-Shop.co 
-Author Information
-Author: Sabreena Zahid Ali
-Slot: Tuesday Evening  Role Number: 00127251
+## Shop.co 
+## Author Information
+### Author: Sabreena Zahid Ali
+### Slot: Tuesday Evening  Role Number: 00127251
 
 Overview
 This document outlines the technical foundation and enhanced workflow for the Shop.co. It includes system architecture, key workflows, API endpoints, and a technical roadmap designed specifically for a seamless e-commerce experience.
